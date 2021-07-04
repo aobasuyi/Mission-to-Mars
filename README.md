@@ -1,8 +1,8 @@
 # Mission-to-Mars
-**Purpose:**  To write a Python script that would gather information about the mission to Mars and display it in a web app<br />
+**Purpose:**  To write a Python script that would gather information on the mission to Mars and display it in a web app<br />
 
 ## Overview
-BeautifulSoup and Splinter will be used to scrape full-resolution images of Mars’s hemispheres and the titles of those images. The data will be stored on a Mongo database and displayed using a web application. 
+BeautifulSoup and Splinter will be used to scrape full-resolution images of Mars’s hemispheres and the titles of those images. The data will then be stored in a Mongo database and displayed using a web application. 
 
 The three technical deliverables for this project include,
 
